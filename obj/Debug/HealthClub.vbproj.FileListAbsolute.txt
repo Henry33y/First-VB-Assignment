@@ -1,0 +1,16 @@
+D:\PROGRAMMING\VB\HealthClub\bin\Debug\HealthClub.exe.config
+D:\PROGRAMMING\VB\HealthClub\bin\Debug\HealthClub.exe
+D:\PROGRAMMING\VB\HealthClub\bin\Debug\HealthClub.pdb
+D:\PROGRAMMING\VB\HealthClub\bin\Debug\HealthClub.xml
+D:\PROGRAMMING\VB\HealthClub\obj\Debug\HealthClub.vbproj.AssemblyReference.cache
+D:\PROGRAMMING\VB\HealthClub\obj\Debug\HealthClub.Resources.resources
+D:\PROGRAMMING\VB\HealthClub\obj\Debug\HealthClub.vbproj.GenerateResource.cache
+D:\PROGRAMMING\VB\HealthClub\obj\Debug\HealthClub.vbproj.CoreCompileInputs.cache
+D:\PROGRAMMING\VB\HealthClub\obj\Debug\HealthClub.exe
+D:\PROGRAMMING\VB\HealthClub\obj\Debug\HealthClub.xml
+D:\PROGRAMMING\VB\HealthClub\obj\Debug\HealthClub.pdb
+D:\PROGRAMMING\VB\HealthClub\obj\Debug\HealthClub.frmGymMembership.resources
+D:\PROGRAMMING\VB\HealthClub\obj\Debug\HealthClub.frmLoanCalculator.resources
+D:\PROGRAMMING\VB\HealthClub\obj\Debug\HealthClub.splash.resources
+D:\PROGRAMMING\VB\HealthClub\obj\Debug\HealthClub.frmLogin.resources
+D:\PROGRAMMING\VB\HealthClub\obj\Debug\HealthClub.frmLink.resources
