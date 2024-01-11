@@ -1,3 +1,2 @@
 # First-VB-Assignment
-This is my first VB repo
-This is another line
+My first Visual Basic repo😎
